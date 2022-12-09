@@ -1,2 +1,2 @@
-# Kino-site
+# Serial-site
 JS practices
