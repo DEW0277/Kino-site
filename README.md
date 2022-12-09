@@ -1,0 +1,2 @@
+# Kino-site
+JS practices
